@@ -1,0 +1,66 @@
+#LoginBox{
+    position: absolute;
+    background-color: rgb(54, 54, 54);
+    width: 5cm;
+    height: 7cm;
+    border: 15px red ;
+    border-radius: 12px;
+    image-rendering: auto;
+    left: 555px;
+    padding:20px;
+    top:170px;
+
+}
+.pass{
+  
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#form{
+     padding-top: 50px;
+     padding-left: 12px;
+     color: silver;
+     
+}
+.image{
+    position: absolute;
+    width: 50px;
+    border-radius: 150px;
+
+}
+.New{
+    padding-left: 12px;
+}
+.title2{
+    /* //login text */
+    position: absolute;
+    left: 550px;
+    top:100px;
+    color:white;
+    
+
+
+}
+.title{
+    /* financial-data-manager */
+    /* height:75px; */
+    /* width:9cm; */
+    /* background-color: gray; */
+    position: absolute;
+    left: 450px;
+    top:10px;
+    color: darkred;
+   padding-bottom: 55px;
+   
+    text-align: center;
+
+
+}
+#account{
+ color: white;
+ text-decoration:wavy;
+}
+body{
+    background-image: url(titan.jpg);
+    height: 1080px;
+}
